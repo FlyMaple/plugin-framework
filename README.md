@@ -38,6 +38,8 @@
 ## Drag and Drop
 * jQuery UI sortable
   * https://jqueryui.com/sortable/
+* GridStack.js
+  * https://troolee.github.io/gridstack.js/
 
 ## Font Icon 
 * Font Awesome
