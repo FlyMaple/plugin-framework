@@ -64,6 +64,7 @@
 ## File upload
 * DropzoneJS
   * http://www.dropzonejs.com/
+  * https://github.com/enyo/dropzone
 
 ## Dialog boxes
 * Bootstrap Bootbox.js
