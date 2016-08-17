@@ -89,3 +89,8 @@
 ## Date library
 * Moments.js
   * http://momentjs.com/
+
+## Map
+ * TinyMap
+  * https://code.essoduke.org/tinyMap/
+  * https://github.com/essoduke/jQuery-tinyMap
