@@ -16,6 +16,9 @@
   * https://datatables.net/
 * AngularJS DataTables
   * https://l-lin.github.io/angular-datatables/
+* Angular UI Grid
+  * http://ui-grid.info/
+  * https://github.com/angular-ui/ui-grid
 
 ## Checkbox / RadioButton
 * iCheck
