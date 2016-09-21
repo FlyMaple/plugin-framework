@@ -80,6 +80,7 @@
 ## Scroll
 * slimScroll
   * http://rocha.la/jQuery-slimScroll
+  * https://github.com/rochal/jQuery-slimScroll
 * perfect-scrollbar
  * http://noraesae.github.io/perfect-scrollbar/
  * https://github.com/noraesae/perfect-scrollbar
