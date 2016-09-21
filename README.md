@@ -80,6 +80,9 @@
 ## Scroll
 * slimScroll
   * http://rocha.la/jQuery-slimScroll
+* perfect-scrollbar
+ * http://noraesae.github.io/perfect-scrollbar/
+ * https://github.com/noraesae/perfect-scrollbar
 
 ## Block
 * BlockUI
