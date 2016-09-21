@@ -48,6 +48,11 @@
 * Font Awesome
   * http://fontawesome.io/
 
+## ToolTip
+* powertip
+ * https://stevenbenner.github.io/jquery-powertip/
+ * https://github.com/stevenbenner/jquery-powertip
+
 ## Tag
 * Bootstrap Tags Input
   * https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/
