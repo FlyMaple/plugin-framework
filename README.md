@@ -28,6 +28,11 @@
 * Bootstrap Multiselect
   * http://davidstutz.github.io/bootstrap-multiselect/
 
+## Slider
+ * slick
+  * http://kenwheeler.github.io/slick/
+  * https://github.com/kenwheeler/slick/
+
 ## Chart
 * HighCharts
   * http://www.highcharts.com/
@@ -106,7 +111,3 @@
  * TinyMap
   * https://code.essoduke.org/tinyMap/
   * https://github.com/essoduke/jQuery-tinyMap
-## Slider
- * slick
-  * http://kenwheeler.github.io/slick/
-  * https://github.com/kenwheeler/slick/
