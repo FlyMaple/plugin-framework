@@ -111,3 +111,21 @@
  * TinyMap
   * https://code.essoduke.org/tinyMap/
   * https://github.com/essoduke/jQuery-tinyMap
+
+## File Create
+ * jsPDF
+  * http://rawgit.com/MrRio/jsPDF/master/
+  * https://github.com/MrRio/jsPDF
+  * 心得
+   * TeHsien: 在 html to PDF 這一段，目前仍存在不少問題待解決，還不是很好用。
+ * html2Canvas
+  * http://html2canvas.hertzen.com/
+  * https://github.com/niklasvh/html2canvas
+  * 心得
+   * TeHsien: 目前有解析度不佳、瀏覽器相容性的問題。
+
+## Promise
+ * es6-promise
+  * https://github.com/stefanpenner/es6-promise
+ * when
+  * https://github.com/cujojs/when
