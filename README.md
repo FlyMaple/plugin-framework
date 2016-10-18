@@ -28,6 +28,11 @@
 * Bootstrap Multiselect
   * http://davidstutz.github.io/bootstrap-multiselect/
 
+## Slider
+ * slick
+  * http://kenwheeler.github.io/slick/
+  * https://github.com/kenwheeler/slick/
+
 ## Chart
 * HighCharts
   * http://www.highcharts.com/
@@ -47,6 +52,11 @@
 ## Font Icon 
 * Font Awesome
   * http://fontawesome.io/
+
+## ToolTip
+* powertip
+ * https://stevenbenner.github.io/jquery-powertip/
+ * https://github.com/stevenbenner/jquery-powertip
 
 ## Tag
 * Bootstrap Tags Input
