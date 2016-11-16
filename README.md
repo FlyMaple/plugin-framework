@@ -129,3 +129,8 @@
   * https://github.com/stefanpenner/es6-promise
  * when
   * https://github.com/cujojs/when
+  
+## 縮放 & 裁切 圖片
+ * Cropper
+  * https://fengyuanchen.github.io/cropper/
+  * https://github.com/fengyuanchen/cropper
