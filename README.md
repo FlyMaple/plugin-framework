@@ -102,6 +102,9 @@
 ## Animate
 * jQuery Easing
   * http://gsgd.co.uk/sandbox/jquery/easing/
+* Animate.css
+ * https://daneden.github.io/animate.css/
+ * https://github.com/daneden/animate.css
 
 ## Date library
 * Moments.js
