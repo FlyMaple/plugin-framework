@@ -137,3 +137,8 @@
  * Cropper
   * https://fengyuanchen.github.io/cropper/
   * https://github.com/fengyuanchen/cropper
+  
+## 行動裝置觸控針測 
+ *Hammer.js
+  * http://hammerjs.github.io/
+  * https://github.com/hammerjs/hammer.js
