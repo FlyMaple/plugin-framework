@@ -126,6 +126,12 @@
   * https://github.com/niklasvh/html2canvas
   * 心得
    * TeHsien: 目前有解析度不佳、瀏覽器相容性的問題。
+ * html2pdf
+  * https://github.com/eKoopmans/html2pdf
+  * 範例
+   * https://jsfiddle.net/tvyux7eo/1/
+  * 心得
+   * TeHsien: 相依於 jsPDF 與 html2Canvas，是作者整合2者後的套件。且還額外在 html2Canvas 加入解析度、縮放比例的參數，可讓原生套件解析度不佳的問題改善(但還是不完美)。
 
 ## Promise
  * es6-promise
